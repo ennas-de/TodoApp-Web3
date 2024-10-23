@@ -1,6 +1,13 @@
 # This is the repo for the article titled: 
 # DEMYSTIFYING WEB3: BUILDING A TODO APP WITH SOLIDITY AND JAVASCRIPT
 
+# AUTHOR: ABDULHAKEEM MUHAMMED IBIYEMI 
+ (BLOCKCHAIN/CRYPTOCURRENCY/SMART-CONTRACT DEVELOPER, SOFTWARE ENGINEER, DATA ENGINEER, AI/ML ENGINEER)
+[LinkedIn](https://www.linkedin.com/in/abdulhakeem-muhammed-ibiyemi/)
+[X.com](https://x.com/ennas_de)
+[EMail](dev.abdulhakeem@gmail.com)
+
+
 # Link to Article would be updated as soon as it is accepted and published.
 # Link
 
