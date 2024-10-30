@@ -8,8 +8,9 @@
 ## [EMail](mailto:dev.abdulhakeem@gmail.com)
 
 
-# Link to Article would be updated as soon as it is accepted and published.
-# [Link]()
+# Link to individual Articles would be updated as soon as they are accepted and published.
+## [Smart Contract Link]()
+## [CLient Link]()
 
 
 ## SMART_CONTRACT: BUILDING AND DEPLOYING A SOLIDITY SMART CONTRACT TO THE ETHEREUM BLOCKCHAIN (SEPOLIA TESTNET)
