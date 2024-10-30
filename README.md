@@ -9,8 +9,8 @@
 
 
 # Link to individual Articles would be updated as soon as they are accepted and published.
-## [Smart Contract Link]()
-## [CLient Link]()
+## [Smart Contract Article]()
+## [Client Article]()
 
 
 ## SMART_CONTRACT: BUILDING AND DEPLOYING A SOLIDITY SMART CONTRACT TO THE ETHEREUM BLOCKCHAIN (SEPOLIA TESTNET)
