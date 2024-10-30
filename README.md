@@ -3,13 +3,14 @@
 
 # AUTHOR: ABDULHAKEEM MUHAMMED IBIYEMI 
  (BLOCKCHAIN/CRYPTOCURRENCY/SMART-CONTRACT DEVELOPER, SOFTWARE ENGINEER, DATA ENGINEER, AI/ML ENGINEER)
-[LinkedIn](https://www.linkedin.com/in/abdulhakeem-muhammed-ibiyemi/)
-[X.com](https://x.com/ennas_de)
-[EMail](mailto:dev.abdulhakeem@gmail.com)
+## [LinkedIn](https://www.linkedin.com/in/abdulhakeem-muhammed-ibiyemi/)
+## [X.com](https://x.com/ennas_de)
+## [EMail](mailto:dev.abdulhakeem@gmail.com)
 
 
 # Link to Article would be updated as soon as it is accepted and published.
-# Link
+# [Link]()
+
 
 ## SMART_CONTRACT: BUILDING AND DEPLOYING A SOLIDITY SMART CONTRACT TO THE ETHEREUM BLOCKCHAIN (SEPOLIA TESTNET)
 
@@ -39,6 +40,26 @@
 
 ## CLIENT: CONECTING TO A DEPLOYED SMART CONTRACT ON THE CLIENT SIDE USING REACT AND WEB3.JS
 
-### TABLE OF CONTENTS (Ongoing project)
+### TABLE OF CONTENTS:
+    1.INTRODUCTIONS
+    2.CREATE A REACT PROGRESSIVE WEB APP
+        2.1   Create a new React-PWA project using Create React App
+        2.2   Complete the PWA Setup 
+        2.3   Install all the needed dependencies (MUI and others)
+    3.SETTING UP PAGES FOR CLIENT 
+        3.1    Set up the App.jsx file for routing
+        3.2    Create Frontend Landing Page
+        3.3    Create the Dashboard page for Interacting with the TodoApp Smart contract
+        3.4    Create other Interaction Components and Pages
+    4. CONNECT TO THE TODOAPP SMART CONTRACT USING WEB3.JS 
+    5. TEST CONNECTIONS BY INTERACTING WITH THE SMART CONTRACT  
+        5.1    Fetch all Todo tasks in the smart contract
+        5.2    Add new Todo task to the smart contract
+        5.3    Delete a Todo task in the smart contract
+        5.4    Mark a Todo task as completed in the smart contract
+    6. CONCLUSION 
+        6.1    Summary and Conclusion
+        6.2    What’s Next (Part 3: Unit testing a smart contract)
 
 
+### PLEASE FOLLOW THE ARTICLES FOR GUIDES ON RUNNING THE PROJECTS (SMART-CONTRACT AND CLIENT).
