@@ -21,8 +21,13 @@ function NavBar() {
   useEffect(() => {
     const getWallet = async () => {
       const resp = await getConnectedWallet();
-      // console.log({resp});
-      setWallet(resp);
+      if (resp && typeof resp == "string") {
+        // console.log({resp});
+        setWallet(resp);
+      } else {
+        setWallet(null)
+        setStatus(resp.status)
+      }
     }
 
     getWallet();

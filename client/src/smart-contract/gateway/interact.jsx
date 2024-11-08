@@ -37,7 +37,10 @@ export const getConnectedWallet = async () => {
             return addresses[0];
         } catch (error) {
             console.log({error});
-            return false;
+            return {
+                address: null,
+                status: error.message
+            };
         }
     } else {
         return {
