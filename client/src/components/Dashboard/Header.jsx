@@ -1,5 +1,4 @@
-import { Link } from 'react-router-dom';
-import {Box, styled} from "@mui/material";
+import {styled} from "@mui/material";
 
 const StyledBox = styled("Box")(({theme}) => ({
     background: '#333',

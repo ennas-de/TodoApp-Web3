@@ -94,6 +94,9 @@ function NavBar() {
         </Toolbar>
       </AppBar>
       <Toolbar />
+      {status & 
+        <Box>{status}</Box>
+      }
     </div>
   );
 }

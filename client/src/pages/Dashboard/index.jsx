@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Stack, styled} from "@mui/material";
-import {getTodo, getAllTodos } from "./../../smart-contract/blockchain"; 
+import { getAllTodos } from "./../../smart-contract/blockchain"; 
 
 import Header from "../../components/Dashboard/Header"
 import AddTodo from '../../components/Dashboard/AddTodo';
