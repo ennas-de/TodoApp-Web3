@@ -20,7 +20,6 @@ export const connectWallet = async () => {
             }; // the user can cancel our the connection request
         }
     } else { // if the user does not have a wallet installed
-        console.log({error})
             return {
                 account: null,
                 status: "You must install an Ethereum wallet (e.g Metamask) in your Browser." 

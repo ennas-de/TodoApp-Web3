@@ -16,7 +16,7 @@ const rightLink = {
 
 function NavBar() {
   const [wallet, setWallet] = useState(null);
-  // const [status, setStatus] = useState(null);
+  const [status, setStatus] = useState(null);
 
   useEffect(() => {
     const getWallet = async () => {
@@ -52,9 +52,9 @@ function NavBar() {
       console.log(resp.status);
       alert(resp.status)
     } catch (error) {
-      console.log(resp.status);
-      setStatus(resp.status);
-      alert(resp.status)
+      console.log(error);
+      setStatus(error.message);
+      alert(error.message)
     }
   }
 
