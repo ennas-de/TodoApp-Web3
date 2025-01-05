@@ -64,3 +64,6 @@
 
 
 ### PLEASE FOLLOW THE ARTICLES FOR GUIDES ON RUNNING THE PROJECTS (SMART-CONTRACT AND CLIENT).
+
+# Please follow me for more articles and guides.
+# Thanks.
