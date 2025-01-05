@@ -65,5 +65,5 @@
 
 ### PLEASE FOLLOW THE ARTICLES FOR GUIDES ON RUNNING THE PROJECTS (SMART-CONTRACT AND CLIENT).
 
-# Please follow me for more articles and guides.
+# Please follow (me)[https://github.com/ennas-de/] for more articles and guides.
 # Thanks.
